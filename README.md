@@ -25,3 +25,10 @@ The implementation
 	  'library function wizard' works because maybe that allows for detailed
 	  documentation.
 - [ ] Create gh-pages documentation describing the VI
+
+Questions
+---------
+
+- [ ] Should we use the wizard or just the plain `call library function` node
+- [ ] Should the above be its own subVI to allow for documenation in LABVIEW
+- [ ] How to wire the 12 bits output
